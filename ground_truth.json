@@ -1,0 +1,557 @@
+[
+    {
+        "event_id": "E000001",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000002",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000003",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000004",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000005",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000006",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000007",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000008",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000009",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000010",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000011",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000012",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000013",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000014",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000015",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000016",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000017",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000018",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000019",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000020",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000021",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000022",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000023",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000024",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000025",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000026",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000027",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000028",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000029",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000030",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000031",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000032",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000033",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000034",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000035",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000036",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000037",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000038",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000039",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000040",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000041",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000042",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000043",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000044",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000045",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000046",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000047",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000048",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000049",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000050",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000051",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000052",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000053",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000054",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000055",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000056",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000057",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000058",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000059",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000060",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000061",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000062",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000063",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000064",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000065",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000066",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000067",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000068",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000069",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000070",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000071",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000072",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000073",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000074",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000075",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000076",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000077",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000078",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000079",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000080",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000081",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000082",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000083",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000084",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000085",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000086",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000087",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000088",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000089",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000090",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000091",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000092",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000093",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000094",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000095",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000096",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000097",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000098",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000099",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000100",
+        "label": "NORMAL",
+        "attack_id": null
+    },
+    {
+        "event_id": "E000101",
+        "label": "ATTACK",
+        "attack_id": "ATTACK_001"
+    },
+    {
+        "event_id": "E000102",
+        "label": "ATTACK",
+        "attack_id": "ATTACK_001"
+    },
+    {
+        "event_id": "E000103",
+        "label": "ATTACK",
+        "attack_id": "ATTACK_001"
+    },
+    {
+        "event_id": "E000104",
+        "label": "ATTACK",
+        "attack_id": "ATTACK_001"
+    },
+    {
+        "event_id": "E000105",
+        "label": "ATTACK",
+        "attack_id": "ATTACK_001"
+    },
+    {
+        "event_id": "E000106",
+        "label": "HARD_NEGATIVE",
+        "attack_id": "HARD_NEGATIVE_001"
+    },
+    {
+        "event_id": "E000107",
+        "label": "HARD_NEGATIVE",
+        "attack_id": "HARD_NEGATIVE_001"
+    },
+    {
+        "event_id": "E000108",
+        "label": "HARD_NEGATIVE",
+        "attack_id": "HARD_NEGATIVE_001"
+    },
+    {
+        "event_id": "E000109",
+        "label": "HARD_NEGATIVE",
+        "attack_id": "HARD_NEGATIVE_002"
+    },
+    {
+        "event_id": "E000110",
+        "label": "HARD_NEGATIVE",
+        "attack_id": "HARD_NEGATIVE_002"
+    },
+    {
+        "event_id": "E000111",
+        "label": "HARD_NEGATIVE",
+        "attack_id": "HARD_NEGATIVE_002"
+    }
+]
